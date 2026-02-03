@@ -1,0 +1,33 @@
+import React, { Component } from "react";
+import ServiceOne from "../../elements/service/ServiceOne";
+import { VideoTag } from "react-video-tag";
+
+class SliderOne extends Component {
+  render() {
+    return (
+        <div className="slider-activation">
+            {/* Start Single Slide */}
+            <div className="slide slider-fixed--height d-flex align-items-center bg_image bg_image-1">
+                <div className="container position-relative">
+                    <div className="row">
+                        <div className="col-lg-12">
+                            <div className="inner">
+                                <h1 className="title theme-gradient">Enterprise IT. Accomplished</h1>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    {/* Start Service Area */}
+                    <div className="service-wrapper service-white">
+                        <ServiceOne />
+                    </div>
+                    {/* End Service Area */}
+
+                </div>
+            </div> 
+            {/* End Single Slide */}
+        </div>
+    );
+  }
+}
+export default SliderOne;
