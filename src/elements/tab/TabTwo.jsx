@@ -79,7 +79,7 @@ class TabsTwo extends Component{
                                                    <a href="https://trendzact.com/" target="_blank" rel="noopener noreferrer">Core AWS Solution Architecture<span>- </span><span className="custom-link">TrendzAct</span></a> Feb, 2024 - Feb, 2025
                                                </li>
                                                <li>
-                                                   <a href="https://itaccomplish.com/">CTPO | Project Manager<span>- </span><span className="custom-link">IT Accomplish</span></a> Feb, 2025 - Present
+                                                   <a href="https://itaccomplish.com/" target="_blank" rel="noopener noreferrer">CTO | Project Manager<span>- </span><span className="custom-link">IT Accomplish</span></a> Feb, 2025 - Present
                                                </li>
                                            </ul>
                                        </div>
@@ -110,13 +110,13 @@ class TabsTwo extends Component{
                                        <div className="single-tab-content">
                                            <ul>
                                                <li>
-                                                   <a href="/service">Masters Degree | Computer Science<span> - <span>KORBEL FOUNDATION COLLEGE</span></span></a> 2014 - 2018
+                                                   <a>Masters Degree | Computer Science<span> - <span>KORBEL FOUNDATION COLLEGE</span></span></a> 2014 - 2018
                                                </li>
                                                <li>
-                                                   <a href="/service">Diploma in Computer Science<span> - Gamma Technical Institute</span></a> 2019
+                                                   <a>Diploma in Computer Science<span> - Gamma Technical Institute</span></a> 2019
                                                </li>
                                                <li>
-                                                   <a href="/service">AWS Solution Architecture<span> - AWS</span></a> 2022
+                                                   <a>AWS Solution Architecture<span> - AWS</span></a> 2022
                                                </li>
                                            </ul>
                                        </div>
