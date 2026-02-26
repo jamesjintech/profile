@@ -20,7 +20,7 @@ const SlideList = [
         category: 'Welcome to my World',
         description: '',
         buttonText: 'Download CV',
-        buttonLink: 'https://drive.google.com/file/d/1q0DRR295n9b1t6e7bMzT9GEFbEoSNRln/view?usp=sharing'
+        buttonLink: 'https://drive.google.com/file/d/1lej24pJlGqbvqpjdsRq9xcslXJP2r8y0/view?usp=sharing'
     }
 ]
 const PortfolioLanding = () => {
@@ -135,7 +135,7 @@ const PortfolioLanding = () => {
                                                 <span className="theme-gradient"> IaC & DevOps Engineer</span>
                                             </TextLoop>{" "}
                                             </h1>
-                                            <h2>based in Canada.</h2>
+                                            <h2>based in China.</h2>
                                             {value.description ? <p className="description">{value.description}</p> : ''}
                                             {value.buttonText ? <div className="slide-btn mt--30"><a className="btn-default btn-border btn-opacity" target="_blank" rel="noopener noreferrer" href={`${value.buttonLink}`}>{value.buttonText}</a></div> : ''}
                                         </div>
